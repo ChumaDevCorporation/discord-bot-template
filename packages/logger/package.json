@@ -1,0 +1,14 @@
+{
+  "name": "@template/logger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "dependencies": {
+    "pino": "^9.0.0",
+    "pino-pretty": "^11.2.1"
+  },
+  "devDependencies": {
+    "@types/pino": "^7.0.5"
+  }
+}
